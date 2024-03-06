@@ -1,0 +1,14 @@
+[
+    {
+        "package": "mkin",
+        "url": "https://github.com/jranke/mkin"
+    },
+    {
+        "package": "chemCal",
+        "url": "https://github.com/jranke/chemCal"
+    },
+    {
+        "package": "pfm",
+        "url": "https://github.com/jranke/chemCal"
+    }
+]
