@@ -10,5 +10,9 @@
     {
         "package": "pfm",
         "url": "https://github.com/jranke/pfm"
+    },
+    {
+        "package": "chents",
+        "url": "https://github.com/jranke/chents"
     }
 ]
